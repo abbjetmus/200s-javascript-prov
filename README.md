@@ -3,7 +3,7 @@
 ## Fråga 1 - Variabler
 Skapa en variabel som heter <b>radie</b> som tilldelas värdet 5.<br>
 Skapa sedan en variabel <b>omkrets</b> som tilldelas omkretsen av en cirkel med hjälp av radie variabeln.<br>
-Formeln för omkrets är <i>O = 2&pi;r</i>.
+Formeln för omkrets är <i>O = 2&pi;r</i> och värdet på &pi; får man ut från JavaScript inbyggda **Math.PI**.
 
 Skriv ut värdet på omkretsen med <i>alert()</i>.
 
