@@ -10,7 +10,8 @@ Skriv ut värdet på omkretsen med <i>alert()</i>.
 
 ## Fråga 2 - If-satser
 Läs in ett namn med <i>prompt()</i> och lagra det i en variabel som heter <b>name</b>.
-Använd if-satser för att kontrollera ifall namnet är <i>Jeton</i> eller <i>Joakim</i>, är fallet sådan skriver du ut "Du är en programmeringslärare!".<br>
+Använd if-satser för att kontrollera ifall namnet är <i>Jeton</i> eller <i>Joakim</i>.<br>
+Är fallet sådan skriver du ut "Du är en programmeringslärare!".<br>
 Är namnet något annat så skriver du ut "Du är inte programmeringslärare!".
 
 
