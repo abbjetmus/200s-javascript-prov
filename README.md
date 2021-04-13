@@ -59,5 +59,7 @@ Tilldela listan till en variabel som heter **cities**.
 Skapa en funktion som heter findCity(), findCity tar in en parameter på ett Id,
 använd Id't för att filtrera ut objektet med det Id't från cities och returnera det.
 
+Använd inbyggda find funktionen för att filtrera: <https://www.w3schools.com/jsref/jsref_find.asp>
+
 Anropa findCity med ett Id som finns i listan och skriv ut namnet på objektet på formatet: 
 **name - county**, för första objektet skulle det se ut så här **Västerås - Västmanland**.
