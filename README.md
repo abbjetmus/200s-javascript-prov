@@ -14,6 +14,7 @@ Börja med att klona eller ladda ner projektet.
 Varje fråga består av en html fil med uppgiftsnumret.<br>
 Html filen innehåller en html mall med nödvändiga taggar och en ```script``` tagg där ni ska lägga in er javascript kod.<br>
 För att starta programmet dubbel-klickar du bara på html filen i filutforskaren och den öppnas i webbläsaren. Sedan när du gör ändringar i filen laddar du om webbläsaren för att dina ändringar ska synas.
+Du får använda valfri editor för att koda men rekommenderar Visual Studio Code.
 
 ## Fråga 1 - Variabler
 Skapa en variabel som heter <b>radie</b> som tilldelas värdet 5.<br>
