@@ -79,3 +79,11 @@ Använd inbyggda find funktionen för att filtrera: <https://www.w3schools.com/j
 
 Anropa findCity med ett Id som finns i listan och skriv ut namnet på objektet på formatet: 
 **name - county**, för första objektet skulle det se ut så här **Västerås - Västmanland**.
+
+## Fråga 7 - Lite svårare uppgift om du hinner
+Du har fått en div-tagg med en t-shirt som bakgrundsbild. Under den finns det 4 knappar **buttons**.<br>
+Din uppgift är att byta färg på t-shirten till den färgen som står på knappen när man klickar på den.
+Detta görs genom att byta bakgrundsfärg på div-taggen.
+1. Skapa en data variabel som heter **color**.
+2. När man klickar på en knapp ska color uppdateras till den färgen.
+3. Använd style-binding på div-taggen så att den binder till color data-variabeln och sätter bakgrundsfärgen.
