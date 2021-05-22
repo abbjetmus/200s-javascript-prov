@@ -1,4 +1,19 @@
 # 200s-javascript-prov
+## Regler
+* Inte tillåtet att hjälpa varandra på något sätt, räknas som fusk.
+* Det är tillåtet att använda internet hur mycket man vill.
+* Efter provet kan ni skicka in era svarsfiler som DM till mig via Teams.
+Vet ni hur man zippar så får ni zippa mappen med filerna.<br><br>
+
+Börja med att klona eller ladda ner projektet.
+<br>
+`git clone https://github.com/abbjetmus/200s-javascript-prov/edit/main/README.md`
+<br>
+## Att tänka på
+
+Varje fråga består av en html fil med uppgiftsnumret.<br>
+Html filen innehåller en html mall med nödvändiga taggar och en ```script``` tagg där ni ska lägga in er javascript kod.<br>
+För att starta programmet dubbel-klickar du bara på html filen i filutforskaren och den öppnas i webbläsaren. Sedan när du gör ändringar i filen laddar du om webbläsaren för att dina ändringar ska synas.
 
 ## Fråga 1 - Variabler
 Skapa en variabel som heter <b>radie</b> som tilldelas värdet 5.<br>
