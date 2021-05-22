@@ -54,7 +54,7 @@ Loopa sedan igenom listan och skriv ut information om varje list-objekt på föl
 
 ## Fråga 5
 Skapa tre funktioner **add**, **subtract** och **multiply** för matematiska operationer som tar in 3 parametarar **x**, **y** och **z**.
-Varje funktion ska addera, subtrahera och multiplicera parametrarna i den ordningen ni själva bestämmer.
+Varje funktion ska addera, subtrahera och multiplicera parametrarna i den ordningen ni själva bestämmer och returnera resultatet.
 
 Anropa sedan varje funktion med valfria värden på parametrarna och skriv ut resultatet till konsolen.
 
