@@ -79,6 +79,7 @@ Använd inbyggda find funktionen för att filtrera: <https://www.w3schools.com/j
 
 Anropa findCity med ett Id som finns i listan och skriv ut namnet på objektet på formatet: 
 **name - county**, för första objektet skulle det se ut så här **Västerås - Västmanland**.
+Du väljer själv om du vill skriva ut det med <i>alert()</i> eller till konsolen.
 
 ## Fråga 7
 Du har fått en div-tagg med en t-shirt som bakgrundsbild. Under den finns det 4 knappar **buttons**.<br>
