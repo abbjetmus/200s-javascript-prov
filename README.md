@@ -7,7 +7,7 @@ Vet ni hur man zippar så får ni zippa mappen med filerna.<br><br>
 
 Börja med att klona eller ladda ner projektet.
 <br>
-`git clone https://github.com/abbjetmus/200s-javascript-prov/edit/main/README.md`
+`git clone https://github.com/abbjetmus/200s-javascript-prov.git`
 <br>
 ## Att tänka på
 
