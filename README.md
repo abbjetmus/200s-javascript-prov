@@ -85,7 +85,7 @@ Du har fått en div-tagg med en t-shirt som bakgrundsbild. Under den finns det 4
 Din uppgift är att byta färg på t-shirten till den färgen som står på knappen när man klickar på den.
 Detta görs genom att byta bakgrundsfärg på div-taggen.
 1. Skapa en funktion som körs för varje knapp-tryckning.
-2. I funktionen hämtar du taggen med bilden.
+2. I funktionen hämtar du div-taggen med bilden.
 3. Sedan byter du värde på property <i>backgroundColor<i> till nya färgen.
 
 ### Resultat
